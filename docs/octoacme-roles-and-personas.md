@@ -75,7 +75,83 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies, coaches the team on agile practices, removes process impediments, and fosters continuous improvement.
+
+### Responsibilities
+- Guide daily standups, sprint planning, reviews and retrospectives
+- Identify and remove blockers/process impediments
+- Support team adoption of agile/iterative practices
+- Foster a culture of feedback and learning
+
+### Interactions
+- Works closely with PM and Developers, focusing on team health and process improvement rather than direct delivery
+
+---
+
+## UX/UI Designer
+
+### Role Summary
+Owns user experience and interface quality, collaborates with Product Managers and Developers, brings user insights to prioritization and design decisions.
+
+### Responsibilities
+- Design user flows and wireframes
+- Advocate for usability and accessibility
+- Review release artifacts for design quality
+- Collaborate on feature specs and acceptance criteria
+
+### Interactions
+- Engages with PdMs and Developers before and during development to ensure user-centric solutions
+
+---
+
+## Technical Writer
+
+### Role Summary
+Produces end-user and internal documentation; partners with Developers and QA to clarify technical concepts.
+
+### Responsibilities
+- Create and update user guides and API references
+- Edit internal engineering documentation for clarity and consistency
+- Ensure docs meet standards before release
+
+### Interactions
+- Partners with Developers and QA for technical accuracy and release readiness
+
+---
+
+## QA Automation Engineer
+
+### Role Summary
+Designs and maintains automated test suites and ensures coverage for critical flows.
+
+### Responsibilities
+- Build and maintain regression test automation
+- Collaborate on test plans and release checklists
+- Review failed test cases and triage bugs
+
+### Interactions
+- Works with Developers and QA/Testing to enforce quality gates before releases
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Manages CI/CD pipelines, deployment infrastructure, and system health monitoring.
+
+### Responsibilities
+- Implement and support automated build/deployment pipelines
+- Monitor infrastructure and respond to incidents
+- Document deployment and rollback procedures
+
+### Interactions
+- Collaborates with Developers and PM to align release requirements and manage operational risks
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
